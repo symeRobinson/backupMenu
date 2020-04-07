@@ -2,6 +2,7 @@ fx_version 'bodacious'
 games { 'gta5' }
 client_scripts {
   'configuration.lua',
+  'menu_base.lua',
   'client.lua'
 }
 server_scripts {
