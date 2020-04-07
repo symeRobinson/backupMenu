@@ -3,5 +3,5 @@ This is a simple backup dispatching/requesting menu which is based off of the LS
 
 As this project nears completion, further documentation will be added.
 
-Join the support discord here @ https://discord.gg/ZMB5qH
+Join the support discord here @ https://discord.gg/3ft2kjv
 
