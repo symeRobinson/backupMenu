@@ -8,9 +8,9 @@ server_scripts {
   'configuration.lua',
   'server.lua'
 }
-ui_page('client/html/index.html')
+ui_page('html/index.html')
 
 files { 
-    'base/html/index.html',
-    'base/html/sounds/tone.ogg'
+    'html/index.html',
+    'html/sounds/tone.ogg'
 }
